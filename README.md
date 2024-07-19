@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-banner-image.png)
 
 ## 💫 About Me:
 👨🏻‍🎓 Pursuing an MSc in Professional Software Development at Ulster University<br>
